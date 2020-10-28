@@ -1,4 +1,6 @@
-#number = int(input("Enter a number:"))
-for x in range(1,11):
-        print(x * (1, 11))
+for x in range(1,101):
+        print(x, end="\t")
+  
+
+
       
